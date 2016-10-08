@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "889018060590",
+    "firebase_url": "https://project-s-d2158.firebaseio.com",
+    "project_id": "project-s-d2158",
+    "storage_bucket": "project-s-d2158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889018060590:android:5b70a8bc5ec86e0c",
+        "android_client_info": {
+          "package_name": "com.lwsoft.skyson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889018060590-9rmfqtbr05rnqkl98d2m3jsbnpmalvfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUoth788MQ9JfRbPbCxQ7s3aGzRTmertY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
